@@ -1,6 +1,0 @@
-== Rails Playground!
-
-
-Ruby version:	2.0.0 (x86_64-darwin12.4.1)
-
-This repository will serve as a playground of sorts while I learn Ruby On Rails via Michael Hartl's Ruby On Rails Tutorial book, found at http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
